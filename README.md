@@ -1,0 +1,2 @@
+# watermelonBot
+First discord bot
